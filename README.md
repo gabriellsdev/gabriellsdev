@@ -39,3 +39,5 @@ React Native · Supabase · Python · Bash · Linux
 
 - LinkedIn: <a href="https://www.linkedin.com/in/gabrielvindev/"> Gabriel Vinicius </a>
 - Email: gabriel.v.santos23@gmail.com
+
+If you want to talk about one of my projects, feel free to drop a DM on my <a href="https://www.instagram.com/gabbe_.v/"> Instagram </a>
